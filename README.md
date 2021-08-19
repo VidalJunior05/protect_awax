@@ -26,7 +26,7 @@ The project developer used that tecnologies :
 
 
 ---
-## 📁How to download the project 
+## 📁 How to download the project 
 ´``bash 
     #clone the repository
      $ git clone https://github.com/VidalJunior05/protect_awax.git
