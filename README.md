@@ -42,6 +42,6 @@ The project developer used that tecnologies :
 
 ```
 
----
+
 ### 💻📱 Developed VidalJunior05
 
